@@ -1,9 +1,6 @@
 ---
 name: vercel-deploy
 description: Deploy applications and websites to Vercel with a claimable preview. Use when the user requests deployment actions like "deploy my app", "deploy and give me the link", "push this live", or "create a preview deployment". No authentication required - returns preview URL and claimable deployment link.
-metadata:
-  author: vercel
-  version: "1.0.0"
 ---
 
 # Vercel Deploy

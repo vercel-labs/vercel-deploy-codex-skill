@@ -1,0 +1,8 @@
+interface:
+  display_name: Vercel Deploy
+  short_description: Deploy applications and websites to Vercel with a claimable preview.
+  icon_small: assets/vercel.svg
+  icon_large: assets/vercel.svg
+ownership:
+  name: Vercel
+  url: https://vercel.com
